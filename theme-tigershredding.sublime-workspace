@@ -1,0 +1,1127 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"output",
+				"output_style"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"pull",
+				"pulledConent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"dupi",
+				"File: Duplicate"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"conver",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"p",
+				"Project: Add Folder"
+			],
+			[
+				"haml",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"renae",
+				"File: Rename"
+			],
+			[
+				"mve",
+				"File: Move"
+			],
+			[
+				"dupil",
+				"File: Duplicate"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"h",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"angul",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"han",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"ham",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"syntaxsass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"view.run_command(\"htmlprettify\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/watch.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-tigershredding.sublime-project",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is__text.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-concat/test/expected/process_function",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/test/pause-resume.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/package.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/addons/_html5-input-types.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-description.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/sass.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/concat.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is__colors.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/test/readme-issue.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/index.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_fonts.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/style.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_grid.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/style.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/concurrent.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/grid/_outer-container.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/open.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/Gruntfile.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/sample.task.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/sample.php.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/tag.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/header.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/kitchensink.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/bourbon.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/neat.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-concurrent/tasks/concurrent.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-concurrent/.gitattributes",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-connect/tasks/certs/ca.crt",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-clean/AUTHORS",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-clean/test/clean_test.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_image-rendering.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_inline-block.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/style.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/tigershredding.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/time-grunt/time-grunt.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/helpers/_shape-size-stripper.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/style.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/tigershredding.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/README.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/addons/_retina-image.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/test/tasks/reloadgruntfile_test.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/readme.txt",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/tigershredding.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/_colors.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/is/_is__colors.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/is/_is__this.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/is/_is.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/helpers/_render-gradients.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/is/_is_colors.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/_breakpoints.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/is/_is__text.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/addons/_hide-text.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/functions/_px-to-em.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/neat/neat.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-clean/docs/clean-examples.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/helpers/_deprecated-webkit-gradient.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/test/fixtures/patterns/lib/sub/dontedit.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/neat/neat.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/nav-below.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/_bourbon.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/bourbon.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/bourbon.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/_grid.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/_colors.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/search.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/single.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-clean/test/fixtures/sample_long/long.txt",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-sass/docs/sass-options.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/neat/grid/_outer-container.scss",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/xtend/has-keys.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/.gitignore",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/.bin/grunt-open",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/page.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/test/tasks/livereload_test.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/bourbon/css3/_background-image.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/functions/_strip-units.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt/internal-tasks/subgrunt.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/test/bash-results.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/css/base/breakpoints.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/config.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/category.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/test/tasks/fail_test.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/load-grunt-tasks/load-grunt-tasks.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt/lib/grunt/task.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/footer.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt/lib/grunt/file.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/entry.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/test/tasks/watch_test.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/middleman.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/archive.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/entry-content.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/comments.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/404.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/php.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/library/scss/_small.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partials/nav-offcanvas-sidebar.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/library/scss/foundation/components/_side-nav.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/library/scss/foundation/components/_sub-nav.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sidebar-offcanvas.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partials/nav-topbar.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partials/nav-offcanvas.php",
+		"/Users/user/.oh-my-zsh/templates/zshrc.zsh-template",
+		"/Users/user/.oh-my-zsh/plugins/z/z.1",
+		"/Users/user/.oh-my-zsh/plugins/gitignore/gitignore.plugin.zsh",
+		"/Users/user/.oh-my-zsh/plugins/git/git.plugin.zsh",
+		"/Users/user/.rvm/gems/ruby-2.0.0-p247/doc/activesupport-4.0.0/ri/DateTime/getutc-i.ri",
+		"/Users/user/.oh-my-zsh/lib/git.zsh",
+		"/Users/user/.zshrc",
+		"/Users/user/Dropbox/Workflow/ST/Packages/Matlab/zlabel.sublime-snippet",
+		"/Users/user/Pictures/iPhoto Library.photolibrary/Database/Faces/Detected/oTIE+XZJTGaKW2FstiPEIA.apdetected",
+		"/Users/user/.cache/bower/packages/bcf7e8e1c86a8dbf6abf093b6114b0da/_wildcard/src/svg/down-open.svg",
+		"/Users/user/untitled folder/dns",
+		"/Users/user/.oh-my-zsh/custom/plugins/weblogins/weblogins.plugin.zsh",
+		"/Users/user/.npm/gaze/0.4.3/package/test/rename_test.js",
+		"/Users/user/Pictures/iPhoto Library.photolibrary/Database/Faces/Detected/qzmmZiFuQoKnBxK20fReNA.apdetected",
+		"/Users/user/.rvm/bin/rvm-exec",
+		"/Users/user/.oh-my-zsh/README.textile",
+		"/Users/user/.oh-my-zsh/custom/plugins/hacks/hacks.plugin.zsh",
+		"/Users/user/.rvm/gems/ruby-2.0.0-p247/doc/ruby_parser-3.1.3/ri/RubyParserStuff/hack_encoding-i.ri",
+		"/Users/user/.rvm/gems/ruby-2.0.0-p247/doc/actionpack-4.0.0/ri/AbstractController/Base/hidden_actions-c.ri",
+		"/Users/user/Downloads/statamic-1.7.1 (1)/_themes/denali/partials/home-article.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			";\n@import \"neat/neat\";",
+			"  ",
+			"\n  ",
+			"olor",
+			"$",
+			";",
+			"}",
+			"{",
+			";",
+			"neat",
+			"export",
+			"log",
+			"status",
+			"bundle",
+			"alias",
+			"Regular",
+			"regular",
+			"background--green-light",
+			".section.is-background__green",
+			"rgbvalue",
+			"$name",
+			"breakpoint",
+			".Grid",
+			"g",
+			"G",
+			"{\n",
+			"grid__item",
+			"  ",
+			"grid__item",
+			"    ",
+			"<!--\n\n    -->",
+			"\n       ",
+			"false",
+			"true",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"\n        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"rem",
+			"px",
+			"i18n",
+			"multi_json",
+			"blockquote",
+			"\n				",
+			"// ",
+			"small-4",
+			"row",
+			"  ",
+			"    ",
+			"   ",
+			"  ",
+			"	",
+			"h1",
+			"link",
+			"%a",
+			"      %",
+			"%a",
+			"%a{:",
+			"onts/rondo/",
+			"{$",
+			"theController",
+			"a",
+			"2",
+			"mall-2 ",
+			"animate-top-level",
+			"animate",
+			"view",
+			"angular",
+			"grayscale(0.5)",
+			".is.centered",
+			"NAME-YOUR-ANIMATION ",
+			"body",
+			"lib",
+			"lbv8",
+			".l-inline.l-margin-left.t-right",
+			"middleman-core",
+			"fo",
+			"ship",
+			"is",
+			"selector",
+			"elem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"project": "theme-tigershredding.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"is",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"concat",
+				"tigershredding/grunt-tasks/options/concat.js"
+			],
+			[
+				"sass",
+				"tigershredding/grunt-tasks/options/sass.js"
+			],
+			[
+				"watc",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"wat",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"ocncurr",
+				"tigershredding/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"grunt",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"watch",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"sample",
+				"tigershredding/grunt-tasks/options/sample.task.js"
+			],
+			[
+				"theme",
+				"tigershredding/theme-description.css"
+			],
+			[
+				"style",
+				"tigershredding/sass/style.css"
+			],
+			[
+				"sas",
+				"tigershredding/grunt-tasks/options/sass.js"
+			],
+			[
+				"tiger",
+				"tigershredding/sass/tigershredding.css"
+			],
+			[
+				"tigershre",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"header",
+				"tigershredding/header.php"
+			],
+			[
+				"grid",
+				"tigershredding/css/base/_grid.sass"
+			],
+			[
+				"color",
+				"tigershredding/css/base/_colors.scss"
+			],
+			[
+				"_iscolo",
+				"tigershredding/css/base/is/_is_colors.sass"
+			],
+			[
+				"_is",
+				"tigershredding/css/base/is/_is.sass"
+			],
+			[
+				"_is_",
+				"tigershredding/css/base/is/_is__text.sass"
+			],
+			[
+				"is_color",
+				"tigershredding/css/base/is/_is_colors.sass"
+			],
+			[
+				"text",
+				"tigershredding/css/bourbon/addons/_hide-text.scss"
+			],
+			[
+				"neat",
+				"tigershredding/css/neat/neat.scss"
+			],
+			[
+				"bourbo",
+				"tigershredding/css/bourbon/bourbon.scss"
+			],
+			[
+				"kitc",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"tigershredding",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"tigersre",
+				"tigershredding/css/tigershredding.css"
+			],
+			[
+				"tigershred",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"break",
+				"tigershredding/css/base/breakpoints.scss"
+			],
+			[
+				"concu",
+				"tigershredding/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"open",
+				"tigershredding/grunt-tasks/options/open.js"
+			],
+			[
+				"tig",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"tasks",
+				"node_modules/load-grunt-tasks/load-grunt-tasks.js"
+			],
+			[
+				"grun",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"ti",
+				"tigershredding/css/tigershredding.sass"
+			],
+			[
+				"bour",
+				"tigershredding/css/bourbon/bourbon.css"
+			],
+			[
+				"packa",
+				"tigershredding/package.json"
+			],
+			[
+				"conc",
+				"grunt-tasks/options/concurrent.js"
+			],
+			[
+				"php",
+				"grunt-tasks/options/php.js"
+			],
+			[
+				"nav",
+				"partials/nav-topbar.php"
+			],
+			[
+				"",
+				"user/.zshrc"
+			],
+			[
+				"zshrc",
+				"user/.zshrc"
+			],
+			[
+				"hacks",
+				"user/.Trash/hacks.plugin.zsh"
+			],
+			[
+				"hack",
+				"user/.rvm/gems/ruby-2.0.0-p247/doc/ruby_parser-3.1.3/ri/RubyParserStuff/hack_encoding-i.ri"
+			],
+			[
+				"agnoster",
+				"user/.oh-my-zsh/themes/myagnoster.zsh-theme"
+			],
+			[
+				"myagnoster",
+				"user/.oh-my-zsh/themes/agnoster.zsh-theme"
+			],
+			[
+				"o",
+				".oh-my-zsh/oh-my-zsh.sh"
+			],
+			[
+				"ohmys",
+				".oh-my-zsh/oh-my-zsh.sh"
+			],
+			[
+				"copydir",
+				".oh-my-zsh/plugins/copydir/copydir.plugin.zsh"
+			],
+			[
+				"compleat",
+				".oh-my-zsh/plugins/compleat/compleat.plugin.zsh"
+			],
+			[
+				"battery",
+				".oh-my-zsh/plugins/battery/battery.plugin.zsh"
+			],
+			[
+				"plugins/",
+				".oh-my-zsh/plugins/bower/_bower"
+			],
+			[
+				"custom/",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				".zshrc",
+				"user/.zshrc"
+			],
+			[
+				"git.",
+				".oh-my-zsh/plugins/git/git.plugin.zsh"
+			],
+			[
+				"mm.plug",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"pluginmm",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"git",
+				".oh-my-zsh/plugins/git/git.plugin.zsh"
+			],
+			[
+				"plugin/mm",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"middleman",
+				"user/.rvm/gems/ruby-2.0.0-p247/bin/middleman"
+			],
+			[
+				"custom/plugin/",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"mm.plu",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"mm.pl",
+				".oh-my-zsh/custom/plugins/mm/mm.plugin.zsh"
+			],
+			[
+				"zsh/plugins/git",
+				".oh-my-zsh/plugins/git/git.plugin.zsh"
+			],
+			[
+				".zshr",
+				"user/.zshrc"
+			],
+			[
+				"mm",
+				"plugins/mm/mm.zsh"
+			],
+			[
+				"themes",
+				"themes/agnoster.zsh-theme"
+			],
+			[
+				"tod",
+				"sethjgre/source/_todo.txt"
+			],
+			[
+				"site",
+				"sethjgre/source/css/ui/_site-wide.scss"
+			],
+			[
+				"inde",
+				"sethjgre/source/index.html.haml"
+			],
+			[
+				"todo",
+				"sethjgre/source/_todo.txt"
+			],
+			[
+				"base",
+				"sethjgre/source/css/_base.scss"
+			],
+			[
+				"typ",
+				"sethjgre/source/css/ui/_type.scss"
+			],
+			[
+				"sty",
+				"sethjgre/source/css/style.scss"
+			],
+			[
+				"intr",
+				"sethjgre/source/css/ui/_intro.sass"
+			],
+			[
+				"intro",
+				"sethjgre/source/css/ui/_intro.scss"
+			],
+			[
+				"stye",
+				"sethjgre/source/css/style.scss"
+			],
+			[
+				"gem",
+				"sethjgre/Gemfile"
+			],
+			[
+				"conf",
+				"sethjgre/config.rb"
+			],
+			[
+				"vars",
+				"sethjgre/source/stylesheets/_vars.scss"
+			],
+			[
+				"subl",
+				"sethjgre/sethjgre.sublime-project"
+			],
+			[
+				"var",
+				"sethjgre/source/stylesheets/_vars.scss"
+			],
+			[
+				"index",
+				"sethjgre/source/index.html.haml"
+			],
+			[
+				"layout",
+				"sethjgre/source/layouts/layout.haml"
+			],
+			[
+				"in",
+				"your-project-folder/index.html"
+			],
+			[
+				"main",
+				"your-project-folder/css/inuit.css/base/_main.scss"
+			],
+			[
+				"def",
+				"your-project-folder/css/inuit.css/_defaults.scss"
+			],
+			[
+				"heading",
+				"your-project-folder/css/my-base/_headings.scss"
+			],
+			[
+				"confi",
+				"sethjgre/config.rb"
+			],
+			[
+				"social",
+				"sethjgre/source/index.html.haml"
+			],
+			[
+				"rondo",
+				"sethjgre/source/stylesheets/master/_rondo-social.scss"
+			],
+			[
+				"app",
+				"sethjgre/source/stylesheets/app.css.scss"
+			],
+			[
+				"sett",
+				"sethjgre/source/stylesheets/_settings.scss"
+			],
+			[
+				"font",
+				"sethjgre/source/img/img-assets.sketch/fonts"
+			],
+			[
+				"modules",
+				"sethjgre/source/stylesheets/modules/_intro.scss"
+			],
+			[
+				"manif",
+				"sethjgre/source/manifesto.html.haml"
+			],
+			[
+				"ind",
+				"sethjgre/source/index.html.haml"
+			],
+			[
+				"index.ha",
+				"sethjgre/source/index.html.haml"
+			],
+			[
+				"liter",
+				"sethjgre/source/stylesheets/modules/_literate.scss"
+			],
+			[
+				"vari",
+				"sethjgre/source/stylesheets/master/_variables.scss"
+			],
+			[
+				"deli",
+				"sethjgre/source/literate/deliberatelyhonest.md"
+			],
+			[
+				"set",
+				"sethjgre/source/stylesheets/_settings.scss"
+			],
+			[
+				"inuit/grid",
+				"sethjgre/source/stylesheets/vendor/inuit.css/objects/_grids.scss"
+			],
+			[
+				"defa",
+				"sethjgre/source/stylesheets/vendor/inuit.css/_defaults.scss"
+			],
+			[
+				"mixins",
+				"sethjgre/source/stylesheets/vendor/inuit.css/generic/_mixins.scss"
+			],
+			[
+				"_shared",
+				"sethjgre/source/stylesheets/vendor/inuit.css/generic/_shared.scss"
+			],
+			[
+				"master",
+				"sethjgre/source/stylesheets/master/_fonts.scss"
+			],
+			[
+				"vendordefa",
+				"sethjgre/source/stylesheets/vendor/inuit.css/_defaults.scss"
+			],
+			[
+				"master/",
+				"sethjgre/source/stylesheets/master/_rondo-social.scss"
+			],
+			[
+				"mast",
+				"sethjgre/source/stylesheets/master/_variables.scss"
+			],
+			[
+				"delib",
+				"sethjgre/source/literate/deliberatelyhonest.md"
+			],
+			[
+				"setting",
+				"sethjgre/source/stylesheets/_settings.scss"
+			],
+			[
+				"variables",
+				"sethjgre/source/stylesheets/master/_variables.scss"
+			],
+			[
+				"v",
+				"sethjgre/build/stylesheets/master/variables.css"
+			],
+			[
+				"home",
+				"sethjgre/source/home.html.haml"
+			],
+			[
+				"manifes",
+				"sethjgre/source/manifesto.html.haml"
+			],
+			[
+				"be",
+				"sethjgre/source/stylesheets/modules/_belief.scss"
+			],
+			[
+				"motion",
+				"sethjgre/source/stylesheets/master/motion.scss"
+			],
+			[
+				"all",
+				"sethjgre/source/javascripts/all.js"
+			],
+			[
+				"alt",
+				"sethjgre/source/javascripts/alt.js"
+			],
+			[
+				"animatio",
+				"sethjgre/source/stylesheets/modules/_view-animation.scss"
+			],
+			[
+				"mani",
+				"sethjgre/source/manifesto.html.haml"
+			],
+			[
+				"html",
+				"sethjgre/source/test.html"
+			],
+			[
+				"manf",
+				"sethjgre/source/manifesto.html.haml"
+			],
+			[
+				"test",
+				"sethjgre/source/layouts/test.haml"
+			],
+			[
+				"all.js",
+				"sethjgre/source/javascripts/all.js"
+			],
+			[
+				"pro",
+				"sethjgre/sethjgre.sublime-project"
+			],
+			[
+				"lay",
+				"sethjgre/source/layouts/layout.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding.sublime-workspace"
+			],
+			[
+				"nerder",
+				"~/Dropbox/Web/clients/nerderychallenge/nerderychallenge.sublime-project"
+			],
+			[
+				"joy",
+				"~/Dropbox/Web/personal/joy/joy.sublime-project"
+			],
+			[
+				"fe",
+				"~/Dropbox/Web/clients/fe-new/fe.sublime-project"
+			],
+			[
+				"whiteb",
+				"~/Dropbox/Web/clients/whiteboard/whiteboard.sublime-project"
+			],
+			[
+				"seth",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"learn",
+				"~/Dropbox/Web/clients/learnnow/learnnow.sublime-project"
+			],
+			[
+				"lea",
+				"~/My Stuff/learnnow/learnnow.sublime-workspace"
+			],
+			[
+				"s",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"se",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"sjg",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-project"
+			],
+			[
+				"f",
+				"~/Dropbox/Web/fe/fe.sublime-project"
+			]
+		],
+		"width": 995.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,1279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"h1",
+				"h1-font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"output",
+				"output_style"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"pull",
+				"pulledConent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"scheme",
+				"Schemr: List all schemes"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"theme",
+				"Schemr: List all schemes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"package add",
+				"Package Control: Add Channel"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"sytnax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"next",
+				"Schemr: Next favorite scheme"
+			],
+			[
+				"rena",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"dupil",
+				"File: Duplicate"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wp_",
+				"Snippet: wp_nav_menu All Options"
+			],
+			[
+				"menu",
+				"Snippet: wp_nav_menu All Options"
+			],
+			[
+				"word",
+				"Snippet: WordPress Enqueue Script"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ri",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"projec",
+				"Project: Edit"
+			],
+			[
+				"dupi",
+				"File: Duplicate"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"conver",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"p",
+				"Project: Add Folder"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"renae",
+				"File: Rename"
+			],
+			[
+				"mve",
+				"File: Move"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"h",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"set syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"angular",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"angul",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"han",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"ham",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"syntaxsass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"view.run_command(\"htmlprettify\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_image-rendering.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/license-code.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/normalize-scss/LICENSE.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_site-logo.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/sass.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/section-badges.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_section-badges.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_body.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/section-slogan.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/badges.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/ribbon-services--manual.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_ribbon-services.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-copy/LICENSE-MIT",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/_config.yml",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/cookiejar.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_radial-gradient.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-neat/assets/stylesheets/grid/_grid.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/test/mark.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/page-main.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/style.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_section-slogan.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/components/_button.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is__this.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/is/_is__text.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/index.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-connect/tasks/certs/server.crt",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/_bourbon-deprecated-upcoming.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/buttons.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/less/bootstrap-3.0.0/button-groups.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/less/site/bootstrap/buttons.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/buttons.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/button-groups.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/less/site/social-buttons.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/community/reporting-bugs.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/normalize-scss/bower.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/components/_nav.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/component.json",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/test.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/banner-companyinfo.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/functions/_transition-property-name.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/addons/_button.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/style.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/style.css.map",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/components/_component__button.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_shame.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/helpers/_render-gradients.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_hidpi-media-query.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/3.2.1/icon/text-height/index.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/3.2.1/icon/heart-empty/index.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/3.2.1/icon/magic/index.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/index.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/middleman.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/icons/text-editor.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/ribbon-services.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/header.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt/internal-tasks/subgrunt.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/functions/_strip-units.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/comments.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/ribbon-contact.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/ribbon-testmonial.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/nav-main.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/partial/footer-contents.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/test/pause-resume.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/concurrent.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_section.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/typekit.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_type--appearance.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/plugins/traffic-light.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-tigershredding.sublime-project",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/header--blank.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-description.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/community/requesting-new-icons.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/less/site/responsive/screen-lg.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/grid/_span-columns.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_fonts.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/footer.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_colors.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_inline-block.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_ribbon-testmonial.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-clean/test/clean_test.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_type--sizing.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/3.2.1/assets/less/bootstrap-2.3.2/type.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-neat/Makefile",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_ribbon-contact.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/components/_zigzag.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/.gitignore",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_box-sizing.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/test/zz-cleanup.js",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/stripe-ad.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/tests/stacked-inside-anchor.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/stripe-social.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_footer.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_box-sizing.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/font-awesome/scss/_rotated-flipped.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/assets/font-awesome/scss/_mixins.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_backface-visibility.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-neat/assets/stylesheets/grid/_visual-grid.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/nav-below.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_breakpoints.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/nav-below-single.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/navbar.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/grunt-tasks/options/copy.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/less/list.less",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/glob/LICENSE",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/test/fixtures/multiTargets/lib/interrupt.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/load-grunt-tasks/load-grunt-tasks.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt/lib/grunt/log.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/3.2.1/assets/css/site.css",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/.sublime-grunt.cache",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/bower_components/font-awesome/src/_includes/footer.html",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/entry-footer.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/Gruntfile.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/dixiepaper/grunt-tasks/options/untitled",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_radial-gradient.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/grid/_outer-container.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-sass/docs/sass-options.md",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/neat/grid/_media.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/entry-meta.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/xtend/test.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/entry-summary.php",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/functions/_px-to-em.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-concat/test/expected/custom_options",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/grunt-contrib-watch/test/fixtures/multiTargets/lib/one.js",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/base/_grid.sass",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/node_modules/node-bourbon/assets/stylesheets/css3/_appearance.scss",
+		"/Users/user/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/bourbon/css3/_appearance.scss"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"left",
+			"  &.left\n    @extend .is__this--floating--left\n\n",
+			";",
+			".compo",
+			"img/ba",
+			"img",
+			"')",
+			"alt=\"\"></div>",
+			"served",
+			"block__served",
+			"get_bl",
+			"name",
+			"img/ba",
+			"img/b",
+			"message",
+			"served__company",
+			";",
+			"zigzag",
+			";",
+			"&nbsp; &nbsp;",
+			"&nbsp;&nbsp;",
+			"%",
+			"(",
+			"content: \"-\"",
+			"class=\"footer__contact--list\"",
+			"<li>",
+			"li>",
+			"p",
+			",\n  },",
+			"min-width ",
+			", 'option'",
+			".",
+			"__",
+			"--",
+			"div",
+			"uppercase",
+			"p",
+			"ish",
+			";",
+			"$bp-",
+			":",
+			";",
+			"{",
+			"@media",
+			"$fields",
+			"fields",
+			"');",
+			"'",
+			"is__text--left ",
+			"cinemaish",
+			"ish",
+			"\"only screen",
+			"funct",
+			"add_action",
+			"functi",
+			"register_",
+			"menu",
+			"tigershredding",
+			"blankslate",
+			"0px",
+			"$h1-font-size,",
+			"$h1-font-size",
+			"font-size",
+			"3rem",
+			";",
+			"@i",
+			"ProximaNova",
+			"<smal",
+			"  }\n}",
+			"}{",
+			";",
+			"main",
+			"  .section--color--main\n    @extend .is__background--c-main",
+			";",
+			";\n@import \"neat/neat\";",
+			"  ",
+			"\n  ",
+			"olor",
+			"$",
+			";",
+			"}",
+			"{",
+			";",
+			"neat",
+			"export",
+			"log",
+			"status",
+			"bundle",
+			"alias",
+			"Regular",
+			"regular",
+			"background--green-light",
+			".section.is-background__green",
+			"rgbvalue",
+			"$name",
+			"breakpoint",
+			".Grid",
+			"g",
+			"G",
+			"{\n",
+			"grid__item",
+			"  ",
+			"grid__item",
+			"    ",
+			"<!--\n\n    -->",
+			"\n       ",
+			"false",
+			"true",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"\n        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"rem",
+			"px",
+			"i18n",
+			"multi_json",
+			"blockquote",
+			"\n				",
+			"// ",
+			"small-4",
+			"row",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 260.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 142.0
+	},
+	"project": "tigershredding.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"badge",
+				"tigershredding/partial/section-badges.php"
+			],
+			[
+				"badgessass",
+				"tigershredding/sass/ui/_section-badges.sass"
+			],
+			[
+				"slogansass",
+				"tigershredding/sass/ui/_section-slogan.sass"
+			],
+			[
+				"slogan",
+				"tigershredding/partial/section-slogan.php"
+			],
+			[
+				"isthis",
+				"tigershredding/sass/base/is/_is__this.sass"
+			],
+			[
+				"button",
+				"tigershredding/sass/components/_button.sass"
+			],
+			[
+				"services.sas",
+				"tigershredding/sass/ui/_ribbon-services.sass"
+			],
+			[
+				"services",
+				"tigershredding/partial/ribbon-services--manual.php"
+			],
+			[
+				"buttonsass",
+				"tigershredding/sass/components/_component__button.sass"
+			],
+			[
+				"sloganph",
+				"tigershredding/partial/section-slogan.php"
+			],
+			[
+				"style",
+				"tigershredding/sass/style.sass"
+			],
+			[
+				"servicesass",
+				"tigershredding/sass/ui/_ribbon-services.sass"
+			],
+			[
+				"badgeph",
+				"tigershredding/partial/section-badges.php"
+			],
+			[
+				"sitelogosass",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"servicessass",
+				"tigershredding/sass/ui/_ribbon-services.sass"
+			],
+			[
+				"company",
+				"tigershredding/partial/banner-companyinfo.php"
+			],
+			[
+				"header",
+				"tigershredding/header.php"
+			],
+			[
+				"main",
+				"tigershredding/page-main.php"
+			],
+			[
+				"body",
+				"tigershredding/sass/ui/_body.sass"
+			],
+			[
+				"typekit",
+				"tigershredding/typekit.php"
+			],
+			[
+				"color",
+				"tigershredding/sass/base/_colors.scss"
+			],
+			[
+				"testmonia",
+				"tigershredding/sass/ui/_ribbon-testmonial.sass"
+			],
+			[
+				"type",
+				"tigershredding/sass/base/_type--appearance.sass"
+			],
+			[
+				"slog",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"cooki",
+				"tigershredding/cookiejar.php"
+			],
+			[
+				"page-m",
+				"tigershredding/page-main.php"
+			],
+			[
+				"contactsass",
+				"tigershredding/sass/ui/_ribbon-contact.sass"
+			],
+			[
+				"",
+				"tigershredding/.gitignore"
+			],
+			[
+				"zig",
+				"tigershredding/sass/components/_zigzag.sass"
+			],
+			[
+				"cookie",
+				"tigershredding/cookiejar.php"
+			],
+			[
+				"sizn",
+				"tigershredding/sass/base/_type--sizing.sass"
+			],
+			[
+				"footersass",
+				"tigershredding/sass/ui/_footer.sass"
+			],
+			[
+				"footer",
+				"tigershredding/partial/footer-contents.php"
+			],
+			[
+				"nav",
+				"tigershredding/partial/nav-main.php"
+			],
+			[
+				"break",
+				"tigershredding/sass/base/_breakpoints.scss"
+			],
+			[
+				"navsass",
+				"tigershredding/sass/components/_nav.sass"
+			],
+			[
+				"cook",
+				"tigershredding/cookiejar.php"
+			],
+			[
+				"istext",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"logo",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"styl",
+				"tigershredding/sass/style.sass"
+			],
+			[
+				"sass",
+				"tigershredding/grunt-tasks/options/sass.js"
+			],
+			[
+				"grunt",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"copy",
+				"tigershredding/grunt-tasks/options/copy.js"
+			],
+			[
+				"test",
+				"node_modules/grunt-contrib-clean/test/clean_test.js"
+			],
+			[
+				"typesig",
+				"tigershredding/sass/base/_type--sizing.sass"
+			],
+			[
+				"apper",
+				"tigershredding/sass/base/_type--appearance.sass"
+			],
+			[
+				"grid",
+				"tigershredding/sass/base/_grid.sass"
+			],
+			[
+				"foot",
+				"tigershredding/footer.php"
+			],
+			[
+				"watch",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"foo",
+				"tigershredding/partial/footer.php"
+			],
+			[
+				"serv",
+				"tigershredding/sass/ui/_ribbon-services.sass"
+			],
+			[
+				"site",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"rename",
+				"tigershredding/sass/bourbon/functions/_transition-property-name.scss"
+			],
+			[
+				"page",
+				"tigershredding/page-main.php"
+			],
+			[
+				"inde",
+				"tigershredding/index.php"
+			],
+			[
+				"func",
+				"tigershredding/functions.php"
+			],
+			[
+				"contacts",
+				"tigershredding/sass/ui/_ribbon-contact.sass"
+			],
+			[
+				"contact",
+				"tigershredding/partial/ribbon-contact.php"
+			],
+			[
+				"sloga",
+				"tigershredding/sass/ui/_section-slogan.sass"
+			],
+			[
+				"navph",
+				"tigershredding/partial/nav-main.php"
+			],
+			[
+				"sty",
+				"tigershredding/sass/style.sass"
+			],
+			[
+				"iste",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"ist",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"ribbon",
+				"tigershredding/sass/ui/_services-ribbon.sass"
+			],
+			[
+				"fo",
+				"tigershredding/footer.php"
+			],
+			[
+				"info",
+				"tigershredding/partial/banner-companyinfo.php"
+			],
+			[
+				"servi",
+				"tigershredding/partial/banner-services.php"
+			],
+			[
+				"istex",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"ind",
+				"tigershredding/index.php"
+			],
+			[
+				"head",
+				"tigershredding/header.php"
+			],
+			[
+				"ribb",
+				"tigershredding/sass/components/_ribbon.sass"
+			],
+			[
+				"servic",
+				"tigershredding/sass/ui/_services-ribbon.sass"
+			],
+			[
+				"git",
+				"tigershredding/.gitignore"
+			],
+			[
+				"traff",
+				"tigershredding/sass/plugins/traffic-light.scss"
+			],
+			[
+				"shame",
+				"tigershredding/sass/base/_shame.sass"
+			],
+			[
+				"traf",
+				"tigershredding/sass/plugins/traffic-light.scss"
+			],
+			[
+				"hade",
+				"tigershredding/header.php"
+			],
+			[
+				"is",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"wat",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"service",
+				"tigershredding/sass/ui/_services-ribbon.sass"
+			],
+			[
+				"appear",
+				"tigershredding/sass/base/_type--appearance.sass"
+			],
+			[
+				"sizing",
+				"tigershredding/sass/bourbon/css3/_box-sizing.scss"
+			],
+			[
+				"breakp",
+				"tigershredding/sass/base/_breakpoints.scss"
+			],
+			[
+				"concur",
+				"tigershredding/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"neat",
+				"tigershredding/sass/neat/_neat.scss"
+			],
+			[
+				"side",
+				"tigershredding/sidebar.php"
+			],
+			[
+				"index",
+				"tigershredding/index.php"
+			],
+			[
+				"comment",
+				"tigershredding/comments.php"
+			],
+			[
+				"them",
+				"tigershredding/theme-description.css"
+			],
+			[
+				"exec",
+				"tigershredding/grunt-tasks/options/exec.js"
+			],
+			[
+				"sample.tas",
+				"tigershredding/grunt-tasks/options/sample.task.js"
+			],
+			[
+				"shell",
+				"tigershredding/grunt-tasks/options/shell.js"
+			],
+			[
+				"heaer",
+				"tigershredding/header.php"
+			],
+			[
+				"navbar",
+				"tigershredding/sass/components/_navbar.sass"
+			],
+			[
+				"kitch",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"kitche",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"secti",
+				"tigershredding/sass/ui/_section.sass"
+			],
+			[
+				"iscolor",
+				"tigershredding/sass/base/is/_is__colors.sass"
+			],
+			[
+				"isthi",
+				"tigershredding/sass/base/is/_is__this.sass"
+			],
+			[
+				"sitelog",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"sitelo",
+				"tigershredding/sass/ui/_site-logo.sass"
+			],
+			[
+				"sect",
+				"tigershredding/sass/ui/_section.sass"
+			],
+			[
+				"concat",
+				"tigershredding/grunt-tasks/options/concat.js"
+			],
+			[
+				"project",
+				"tigershredding/theme-tigershredding.sublime-project"
+			],
+			[
+				"conac",
+				"tigershredding/grunt-tasks/options/concat.js"
+			],
+			[
+				"giti",
+				"tigershredding/.gitignore"
+			],
+			[
+				"s",
+				"tigershredding/grunt-tasks/options/sass.js"
+			],
+			[
+				"fonts",
+				"tigershredding/sass/base/_fonts.sass"
+			],
+			[
+				"kitchen",
+				"tigershredding/kitchensink.php"
+			],
+			[
+				"font",
+				"tigershredding/sass/base/_fonts.sass"
+			],
+			[
+				"is_text",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"base/",
+				"tigershredding/sass/base/is/_is__text.sass"
+			],
+			[
+				"section",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/sass/ui/_section.sass"
+			],
+			[
+				"style.cs",
+				"tigershredding/style.css"
+			],
+			[
+				"nav.sas",
+				"tigershredding/sass/components/_navbar.sass"
+			],
+			[
+				"style.css",
+				"tigershredding/style.css"
+			],
+			[
+				"sas",
+				"tigershredding/grunt-tasks/options/sass.js"
+			],
+			[
+				"gruntfi",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"conc",
+				"tigershredding/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"gr",
+				"tigershredding/Gruntfile.js"
+			],
+			[
+				"concu",
+				"tigershredding/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"confu",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/Gruntfile.js"
+			],
+			[
+				"samp",
+				"tigershredding/grunt-tasks/options/sample.task.js"
+			],
+			[
+				"watc",
+				"tigershredding/grunt-tasks/options/watch.js"
+			],
+			[
+				"ocncurr",
+				"tigershredding/grunt-tasks/options/concurrent.js"
+			],
+			[
+				"sample",
+				"tigershredding/grunt-tasks/options/sample.task.js"
+			],
+			[
+				"theme",
+				"tigershredding/theme-description.css"
+			],
+			[
+				"tiger",
+				"tigershredding/sass/tigershredding.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"tigershredd",
+				"~/Dropbox/Web/clients/hatchit/tigershredding/wp-content/themes/tigershredding/theme-tigershredding.sublime-project"
+			],
+			[
+				"tiger",
+				"~/Dropbox/Web/clients/infini/goreboiler.sublime-project"
+			],
+			[
+				"dot",
+				"~/dotfiles.sublime-project"
+			],
+			[
+				"dis",
+				"~/Dropbox/Web/clients/hatchit/dixiepaper.sublime-project"
+			],
+			[
+				"move",
+				"~/My Stuff/Clients/Convo/2013 10 10 Confidentality Agreement/convo-confidentality-agreement.sublime-project"
+			],
+			[
+				"joy",
+				"~/Dropbox/Web/personal/joy/joy.sublime-project"
+			],
+			[
+				"fe",
+				"~/Dropbox/Web/clients/fe/fe.sublime-project"
+			],
+			[
+				"",
+				"~/Dropbox/Web/fe/fe.sublime-workspace"
+			],
+			[
+				"nerd",
+				"~/Dropbox/Web/clients/nerderychallenge/nerderychallenge.sublime-project"
+			],
+			[
+				"nerder",
+				"~/Dropbox/Web/clients/nerderychallenge/nerderychallenge.sublime-project"
+			],
+			[
+				"whiteb",
+				"~/Dropbox/Web/clients/whiteboard/whiteboard.sublime-project"
+			],
+			[
+				"seth",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"learn",
+				"~/Dropbox/Web/clients/learnnow/learnnow.sublime-project"
+			],
+			[
+				"lea",
+				"~/My Stuff/learnnow/learnnow.sublime-workspace"
+			],
+			[
+				"s",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"se",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-workspace"
+			],
+			[
+				"sjg",
+				"~/Dropbox/Web/sethjgre/sethjgre.sublime-project"
+			],
+			[
+				"f",
+				"~/Dropbox/Web/fe/fe.sublime-project"
+			]
+		],
+		"width": 995.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
